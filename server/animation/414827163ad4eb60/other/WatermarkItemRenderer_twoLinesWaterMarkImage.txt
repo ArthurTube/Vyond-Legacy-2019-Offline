@@ -1,0 +1,14 @@
+package anifire.studio.components
+{
+   import mx.core.BitmapAsset;
+   
+   public class WatermarkItemRenderer_twoLinesWaterMarkImage extends BitmapAsset
+   {
+       
+      
+      public function WatermarkItemRenderer_twoLinesWaterMarkImage()
+      {
+         super();
+      }
+   }
+}
